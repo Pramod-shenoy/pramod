@@ -4,3 +4,4 @@ public class main{
                System.out.println("Hello world");
              }  
           }
+          //above code is a java code.
